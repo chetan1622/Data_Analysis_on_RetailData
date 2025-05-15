@@ -12,7 +12,7 @@ Data_Analysis.ipynb"	Jupyter Notebook to clean, explore, and visualize retail sa
 
 1. Uses the RetailSalesData database
 2. Creates two tables:
-*Sales_Data_Transaction – for storing customer transactions
+*Sales_Data_Transaction – for storing customer transactions, 
 Sales_Data_Responses – for storing customer responses*
 4. Loads data from Retail_Data_Transactions.csv into MySQL using LOAD DATA INFILE
 5. Optimizes query performance using:
@@ -24,10 +24,10 @@ Sales_Data_Responses – for storing customer responses*
 1. Connects to or imports data from the database or CSV
 2. Cleans and preprocesses the data using Pandas
 3. Performs exploratory data analysis (EDA):
-*Customer behavior trends
+*Customer behavior trends, 
 Sales patterns over time*
 5. Creates visualizations using:
-*Matplotlib
+*Matplotlib, 
 Seaborn*
 
 **Tools & Technologies Used**
